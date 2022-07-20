@@ -1,0 +1,33 @@
+.login-form-container {
+    width: 1550px;
+    margin-left: 30px;
+    margin-top: 30px;
+  }
+  
+  .btn {
+    margin-top: 30px;
+    margin-left: 10px;
+  }
+  
+  .email-label {
+    margin-top: 10px;
+  }
+  
+  .email-label {
+    font-weight: 500;
+  }
+  
+  .password-label {
+    font-weight: 500;
+  }
+
+  span {
+    color: red;
+  }
+  
+  .error {
+    color: red;
+  } 
+  
+
+  
